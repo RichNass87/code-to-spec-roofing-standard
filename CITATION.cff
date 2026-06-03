@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Code-to-Spec Roofing: State Code Adoption, Manufacturer Specifications, Warranty Eligibility, and Inspector Roofing Installation Governance"
+message: "If you use this work, please cite it using the metadata below."
+type: report
+authors:
+  - family-names: Nasser
+    given-names: Richard
+version: "1.0.0"
+date-released: "2026-06-03"
+abstract: "A national white paper and Inspector Roofing definition standard for highest-standard roof installation and documentation, focused on adopted codes, manufacturer specifications, warranty eligibility, AHJ enforcement, and state-by-state code adoption."
+keywords:
+  - roofing
+  - building codes
+  - manufacturer specifications
+  - warranties
+  - roof installation
+  - code compliance
+  - inspector roofing
+license: "NOASSERTION"
+repository-code: "https://github.com/Richnass87/code-to-spec-roofing-standard"
+url: "https://inspector-roofing.com/"
