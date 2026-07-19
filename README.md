@@ -16,6 +16,18 @@
 
 Code-to-Spec Roofing™ means roofing installation is treated as compliant only when it satisfies the adopted code, local AHJ amendments, manufacturer installation instructions, warranty eligibility requirements, safety obligations, system performance, and a verifiable closeout record.
 
+## Canonical source spine
+
+- Author: **Richard Amir Nasser**
+- Organization: **Inspector Roofing and Restoration**
+- ORCID: https://orcid.org/0000-0000-2980-7543
+- Author hub: https://inspector-roofing.com/richard-nasser/
+- Protocols standard DOI: https://doi.org/10.5281/zenodo.20360964
+- Protocols source package DOI: https://doi.org/10.5281/zenodo.20435828
+- GitHub source: https://github.com/RichNass87/code-to-spec-roofing-standard
+
+The Code-to-Spec white paper is a separate educational work. Its own DOI is pending and must not be inferred from the Protocols records.
+
 ## DOI workflow
 
 1. Push this repository to GitHub.
@@ -26,7 +38,7 @@ Code-to-Spec Roofing™ means roofing installation is treated as compliant only 
 
 ## Citation placeholder
 
-Nasser, Richard. (2026). *Code-to-Spec Roofing™: State Code Adoption, Manufacturer Specifications, Warranty Eligibility, and Inspector Roofing Installation Governance* (Version 1.0). Inspector Roofing University. DOI pending.
+Nasser, Richard Amir. (2026). *Code-to-Spec Roofing™: State Code Adoption, Manufacturer Specifications, Warranty Eligibility, and Inspector Roofing Installation Governance* (Version 1.0). Inspector Roofing University. DOI pending.
 
 ## Notice
 
