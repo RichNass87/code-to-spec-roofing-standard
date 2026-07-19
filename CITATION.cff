@@ -3,7 +3,7 @@ message: "If you use this work, please cite it as below."
 title: "Code-to-Spec Roofing™: A State-by-State White Paper on Roofing Code Adoption, Manufacturer Specifications, Warranties, AHJ Enforcement, and Installation Documentation"
 authors:
   - family-names: "Nasser"
-    given-names: "Richard"
+    given-names: "Richard Amir"
     affiliation: "Inspector Roofing and Restoration"
 date-released: "2026-06-03"
 version: "1.0.1"
@@ -19,5 +19,5 @@ keywords:
   - code compliance
   - Inspector Roofing
 license: "CC-BY-4.0"
-repository-code: "https://github.com/Richnass87/code-to-spec-roofing-standard"
+repository-code: "https://github.com/RichNass87/code-to-spec-roofing-standard"
 url: "https://inspector-roofing.com"
